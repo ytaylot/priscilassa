@@ -10,12 +10,12 @@
 
 ## Tecnologias que Estou Aprendendo
 Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
-- **Git & github**
+- **Git e github**
 - **Markdown** 
 - **Manutenção de computadores**
 - **Elétrica e Eletrônica Básica com Arduino**
 - **Redes e infraestrutura**
-- **Sistemas opoeracionais**
+- **Sistemas operacionais**
 
 ## 🚀 Objetivos
 Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
