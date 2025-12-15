@@ -1,24 +1,21 @@
 
-![2627a135e2af4ca95912b67beb07b06d](https://github.com/user-attachments/assets/7317f05e-2db9-4589-9a88-bb805f4b7b48)
+<h2 align= "center" > <img width="850" height="315" alt="image" src="https://github.com/user-attachments/assets/2d607709-85b5-473b-8217-80f28e9e88a7" />
 
 <h1 align= "center" > Taylor</h1>
 <h3 align= "center" >"a ironia do destino é uma divina comédia"</h3>
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 - **Curso Técnico em Informática**  
   *Senac Tatuapé - Em andamento*
 
-## 💻 Tecnologias que Estou Aprendendo
+## Tecnologias que Estou Aprendendo
 Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
-- **Git & GitHub** (Controle de versão)
-- **Markdown** (Documentação)
-- **Hardware Básico** (Montagem e manutenção de computadores)
-- **Elétrica e Eletrônica Básica com Arduino** (Automação e prototipagem)
-
-## 👨‍💻 Experiência Profissional Anterior
-- **Operador de Loja**  
-  *Mercado DIA*  
-  *Atendimento ao cliente, organização de estoque e operações comerciais*
+- **Git & github**
+- **Markdown** 
+- **Manutenção de computadores**
+- **Elétrica e Eletrônica Básica com Arduino**
+- **Redes e infraestrutura**
+- **Sistemas opoeracionais**
 
 ## 🚀 Objetivos
 Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
