@@ -17,6 +17,6 @@ Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
 - **Redes e infraestrutura**
 - **Sistemas operacionais**
 
-## 🚀 Objetivos
+## Objetivos
 Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
 
