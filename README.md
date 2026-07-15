@@ -16,7 +16,7 @@ Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
 - **Elétrica e Eletrônica Básica com Arduino**
 - **Redes e infraestrutura**
 - **Sistemas operacionais**
-
+- **Photoshop**
 ## Objetivos
 Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
 
