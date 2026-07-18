@@ -1,12 +1,13 @@
 
 <h2 align= "center" > <img width="850" height="315" alt="image" src="https://github.com/user-attachments/assets/2d607709-85b5-473b-8217-80f28e9e88a7" />
 
-<h1 align= "center" > Taylor</h1>
 <h3 align= "center" >"a verdadeira arte é só o reflexo dos sentimentos de quem à contempla"</h3>
 
-## Formação Acadêmica
-- **Curso Técnico em Informática**  
-  *Senac Tatuapé - Em andamento*
+## Sobre
+
+ Olá, me chamo Taylor. Sou estudante do curso Técnico em Informática do SENAC. 
+
+Esta conta foi criada para documentar tudo que eu aprender em curso e armazenar projetos.
 
 ## Tecnologias que Estou Aprendendo
 Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
@@ -16,7 +17,10 @@ Atualmente estou focado em desenvolver minhas habilidades nas seguintes áreas:
 - **Elétrica e Eletrônica Básica com Arduino**
 - **Redes e infraestrutura**
 - **Sistemas operacionais**
+- **GNU/Linux**
 - **Photoshop**
-## Objetivos
-Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
+- **Lógica de programação**
 
+
+## Objetivo
+Busco aprender e aprimorar meus conhecimentos em tecnologia da informação.
